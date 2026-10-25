@@ -4,7 +4,7 @@ Partner and Chief Business Officer at [Home Inn](https://homeinn.xyz) in Dhaka, 
 
 Home Inn designs and builds architecture, interiors and custom furniture, and has been doing it across Bangladesh since 2015.
 
-**[tashfin-rahman.github.io](https://tashfin-rahman.github.io)** · [LinkedIn](https://www.linkedin.com/in/tashfin-rahman-24712828b)
+**[tashfin-rahman.github.io](https://tashfin-rahman.github.io)** · [LinkedIn](https://www.linkedin.com/in/tashfinrahman)
 
 ### What I work on
 
