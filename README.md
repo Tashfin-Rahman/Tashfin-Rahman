@@ -18,8 +18,8 @@ Outside that I am building an agency of my own. Most small businesses I meet hav
 
 ### Writing
 
-- [Keeping the books for a shop and for a project business](https://tashfin-rahman.github.io/blog/bookkeeping-shop-vs-project/) — a shop's books are a volume problem and a project business's books are a timing problem.
-- [What you are actually paying for in a fit-out quote](https://tashfin-rahman.github.io/blog/fit-out-quote/) — how a quote is built, what moves it, and what a client can do to keep it steady.
+- [Keeping the books for a shop and for a project business](https://tashfin-rahman.github.io/blog/bookkeeping-shop-vs-project/). A shop's books are a volume problem and a project business's books are a timing problem.
+- [What you are actually paying for in a fit-out quote](https://tashfin-rahman.github.io/blog/fit-out-quote/). How a quote is built, what moves it, and what a client can do to keep it steady.
 
 ### On the name
 
