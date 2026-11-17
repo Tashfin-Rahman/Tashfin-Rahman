@@ -12,7 +12,14 @@ I look after the money side at Home Inn: budgeting, cost tracking, bookkeeping a
 
 Outside that I am building an agency of my own. Most small businesses I meet have either their numbers in order or their marketing in order, rarely both.
 
-I am interested in how data helps with financial decisions, particularly in lending, budgeting and cost forecasting.
+### Lending and forecasting
+
+[CreditSense AI](https://github.com/Danial-Dirar/CreditSense-AI) is a team project comparing five loan-approval models. I covered the banking side: how lenders weigh credit history, income and loan amount, and why the two kinds of mistake should not be scored equally. Approving a bad loan costs a lender far more than turning down a good one, so accuracy on its own is the wrong thing to optimise.
+
+### Writing
+
+- [Keeping the books for a shop and for a project business](https://tashfin-rahman.github.io/blog/bookkeeping-shop-vs-project/) — a shop's books are a volume problem and a project business's books are a timing problem.
+- [What you are actually paying for in a fit-out quote](https://tashfin-rahman.github.io/blog/fit-out-quote/) — how a quote is built, what moves it, and what a client can do to keep it steady.
 
 ### On the name
 
